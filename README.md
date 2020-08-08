@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)
 - 🌱 I’m currently learning Kubernetes 
-- 💬 Ask me about Data Engineering and stream processing :)
+- 💬 Ask me about Data Engineering :)
 - 📫 How to reach me: @matar86
 - ⚡ Fun fact: I play Halo 
