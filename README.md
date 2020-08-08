@@ -18,6 +18,6 @@ I have a profound interest in cloud computing and data engineering. Enjoy buildi
 
 - 🔭 I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)
 - 🌱 I’m currently learning Kubernetes 
-- 💬 Ask me about Azure and data engineering :)
+- 💬 Ask me about anything :)
 - 📫 How to reach me: matar@linux.com
 - ⚡ Fun fact: I play Halo 
