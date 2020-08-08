@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)
+- 🌱 I’m currently learning Kubernetes 
+- 💬 Ask me about Data Engineering and stream processing :)
+- 📫 How to reach me: @matar86
+- ⚡ Fun fact: I play Halo 
