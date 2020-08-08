@@ -20,4 +20,4 @@ I have a profound interest in cloud computing and data engineering. Enjoy buildi
 - 🌱 I’m currently learning Kubernetes 
 - 💬 Ask me about anything :)
 - 📫 How to reach me: matar@linux.com
-- ⚡ Fun fact: I love rock music, and play Halo :>
+- ⚡ Fun fact: I love rock music :guitar:, and play Halo :>
