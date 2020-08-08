@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Matar 👋
 
 <!--
 **mataralhawiti/mataralhawiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have a profound interest in cloud computing and data engineering. Enjoy building scalable, reliable, and cost-effective cloud-based data infrastructures that utilize the power of the cloud.
+
 - 🔭 I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)
 - 🌱 I’m currently learning Kubernetes 
-- 💬 Ask me about Data Engineering :)
-- 📫 How to reach me: @matar86
+- 💬 Ask me about Azure and data engineering :)
+- 📫 How to reach me: matar@linux.com
 - ⚡ Fun fact: I play Halo 
