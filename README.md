@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I have a profound interest in cloud computing and data engineering. Enjoy building scalable, reliable, and cost-effective cloud-based data infrastructures that utilize the power of the cloud.
 
 - 🔭 I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)
-- 🌱 I’m currently learning Kubernetes 
+- 🌱 I’m currently learning Kubernetes & Golang
 - 💬 Ask me about anything :)
 - 📫 How to reach me: matar@linux.com
 - ⚡ Fun fact: I love rock music :guitar:, and play Halo :>
