@@ -1,5 +1,5 @@
-### Hi, I'm Matar 👋
-
+### Hi, I'm Matar [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)][linkedin]👋
+[linkedin]:https://www.linkedin.com/in/matar86
 <!--
 **mataralhawiti/mataralhawiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
