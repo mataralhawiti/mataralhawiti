@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have a profound interest in cloud computing and data engineering. Enjoy building scalable, reliable, and cost-effective cloud-based data infrastructures that utilize the power of the cloud.
+I'm interest in distributed systems, cloud computing, data engineering and running data-workloads on Kubernetes
 
 - 🔭 I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)
 - 🌱 I’m currently learning Kubernetes & Golang
