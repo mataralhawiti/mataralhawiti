@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm interest in distributed systems, cloud computing, data engineering and running data-workloads on Kubernetes
+I'm interested in distributed systems, cloud computing, data engineering and running data-workloads on Kubernetes
 
 - 🔭 I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)
 - 🌱 I’m currently learning Kubernetes & Golang
