@@ -20,4 +20,4 @@ I'm interested in distributed systems, cloud computing, data engineering and run
 - 🌱 I’m currently learning Kubernetes & Golang
 - 💬 Ask me about anything :)
 - 📫 How to reach me: matar@linux.com
-- ⚡ Fun fact: I love rock music :guitar:, and play Halo :>
+- ⚡ Fun fact: I love rock music :guitar:, video gams and movies. :>
