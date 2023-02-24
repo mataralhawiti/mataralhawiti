@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm interested in distributed systems, cloud computing, data engineering and running data-workloads on Kubernetes
 
-- 🔭 I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)
+- 🔭 <strike>I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)</strike>
 - 🌱 I’m currently learning Kubernetes & Golang
 - 💬 Ask me about anything :)
 - 📫 How to reach me: matar@linux.com
