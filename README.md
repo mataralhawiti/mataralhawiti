@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm interested in distributed systems, cloud computing, data engineering and running data-workloads on Kubernetes
 
+- 🌱 For 2023, I'm spending a lot time learning about Big data table formats (especially Apache Iceberg), Apache Flink, containers/K8 advanced concepts and Golang.
 - 🔭 <strike>I’m currently working on my IMDB movies rating (https://myimdbmovies.azurewebsites.net/)</strike>
-- 🌱 I’m currently learning Kubernetes & Golang
 - 💬 Ask me about anything :)
 - 📫 How to reach me: matar@linux.com
 - ⚡ Fun fact: I love rock music :guitar:, video gams and movies. :>
