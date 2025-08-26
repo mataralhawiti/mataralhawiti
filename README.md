@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm interested in distributed systems, cloud computing, data engineering and running data-workloads on Kubernetes
 
-- 🌱 For 2024, I'm spending a lot time learning about AI/ML, Golang, Big data table formats (especially Apache Iceberg), Apache Beam, containers/K8 advanced concepts and Google Cloud.
+- 🌱 For 2025, I'm spending a lot time learning about AI/ML, Golang, Big data table formats (especially Apache Iceberg), Apache Beam, containers/K8 advanced concepts and Google Cloud.
+- My personal website: https://www.matar.one/
 - 🔭 chck out https://datumops.com/
 - 💬 Ask me about anything :)
 - 📫 How to reach me: matar@linux.com
